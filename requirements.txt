@@ -2,3 +2,5 @@ streamlit
 pandas
 matplotlib
 nltk
+numpy
+scikit-learn
