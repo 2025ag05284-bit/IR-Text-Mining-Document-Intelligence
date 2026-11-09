@@ -1,0 +1,445 @@
+document_id,title,true_category,predicted_category,confidence
+entertainment_118,REM concerts blighted by illness,entertainment,entertainment,1.0
+business_496,Europe asks Asia for euro help,business,business,1.0
+entertainment_068,Tautou 'to star in Da Vinci film',entertainment,entertainment,1.0
+tech_342,'No re-draft' for EU patent law,tech,tech,1.0
+sport_363,Calder fears for Scottish rugby,sport,politics,0.9968089535240512
+business_279,German bidder in talks with LSE,business,business,1.0
+tech_177,Microsoft debuts security tools,tech,tech,1.0
+business_189,Fiat chief takes steering wheel,business,business,1.0
+business_311,Stormy year for property insurers,business,business,1.0
+tech_006,Wi-fi web reaches farmers in Peru,tech,tech,1.0
+sport_150,Jol joy at 'professional' Cup win,sport,sport,1.0
+business_038,Deutsche Telekom sees mobile gain,business,business,1.0
+business_403,WorldCom bosses' $54m payout,business,business,1.0
+tech_315,Warning over tsunami aid website,tech,tech,1.0
+politics_298,'Debate needed' on donations cap,politics,politics,1.0
+tech_029,Open source leaders slam patents,tech,tech,1.0
+politics_391,'EU referendum could cost Â£80m',politics,politics,1.0
+tech_362,Bad e-mail habits sustains spam,tech,tech,1.0
+politics_050,Scots smoking ban details set out,politics,politics,1.0
+politics_359,Brown ally rejects Budget spree,politics,politics,1.0
+sport_262,Spurs to sign Iceland U21 star,sport,sport,1.0
+sport_100,Mido makes third apology,sport,sport,1.0
+tech_059,Mobiles 'not media players yet',tech,tech,1.0
+sport_105,Newcastle 2-1 Bolton,sport,sport,1.0
+entertainment_250,Prince crowned 'top music earner',entertainment,entertainment,1.0
+entertainment_280,Music man to the Oscars,entertainment,entertainment,1.0
+entertainment_201,Triple triumph for Little Britain,entertainment,entertainment,1.0
+entertainment_304,Fantasy book wins Hollywood deal,entertainment,entertainment,1.0
+business_426,Minister hits out at Yukos sale,business,business,1.0
+entertainment_132,Hard act to follow for OutKast,entertainment,entertainment,1.0
+sport_361,Hodges announces rugby retirement,sport,sport,1.0
+politics_036,Choose hope over fear - Kennedy,politics,politics,1.0
+tech_060,Microsoft releases patches,tech,tech,1.0
+sport_372,WRU proposes season overhaul,sport,sport,1.0
+sport_404,Ireland win eclipses refereeing 'errors',sport,sport,1.0
+politics_230,Burglar defence guidelines issued,politics,politics,1.0
+politics_191,Short attacks US over tsunami aid,politics,politics,1.0
+politics_276,Donor attacks Blair-Brown 'feud',politics,politics,1.0
+business_027,"Steel firm 'to cut' 45,000 jobs",business,business,1.0
+sport_308,Henson stakes early Lions claim,sport,sport,1.0
+sport_113,Wright-Phillips to start on right,sport,sport,1.0
+business_228,Tsunami 'to hit Sri Lanka banks',business,business,1.0
+entertainment_317,Patti Smith to host arts festival,entertainment,entertainment,1.0
+sport_025,El Guerrouj targets cross country,sport,sport,1.0
+entertainment_228,Joy Division story to become film,entertainment,entertainment,1.0
+sport_266,Benitez 'to launch Morientes bid',sport,sport,1.0
+tech_117,Joke e-mail virus tricks users,tech,tech,1.0
+business_214,Economy 'strong' in election year,business,business,1.0
+entertainment_291,U2 stars enter rock Hall of Fame,entertainment,entertainment,1.0
+politics_066,Commons hunt protest charges,politics,politics,1.0
+business_075,EU ministers to mull jet fuel tax,business,business,1.0
+tech_323,Blind student 'hears in colour',tech,tech,1.0
+sport_461,Rusedski angry over supplements,sport,sport,1.0
+entertainment_019,Slater to star in Broadway play,entertainment,entertainment,1.0
+politics_409,Tories urge 'change at the top',politics,politics,1.0
+business_051,Fiat mulls Ferrari market listing,business,business,1.0
+business_480,Wipro beats forecasts once again,business,business,1.0
+tech_106,Web logs aid disaster recovery,tech,tech,1.0
+sport_459,Federer breezes into semi-finals,sport,sport,1.0
+tech_105,Nuclear body seeks new tech,tech,tech,1.0
+politics_342,Brown outlines third term vision,politics,politics,1.0
+tech_056,Sporting rivals go to extra time,tech,tech,1.0
+politics_111,Kilroy launches 'Veritas' party,politics,politics,1.0
+entertainment_088,Ocean's Twelve raids box office,entertainment,entertainment,1.0
+business_161,Ex-Boeing director gets jail term,business,business,1.0
+sport_163,Arsenal through on penalties,sport,sport,1.0
+sport_490,Safin plays down Wimbledon hopes,sport,sport,1.0
+sport_037,Johnson accuses British sprinters,sport,sport,1.0
+tech_206,Row brewing over peer-to-peer ads,tech,tech,1.0
+politics_159,Howard unveils election platform,politics,politics,1.0
+sport_342,Robinson out of Six Nations,sport,sport,1.0
+politics_067,Child access laws shake-up,politics,politics,1.0
+entertainment_010,Uganda bans Vagina Monologues,entertainment,politics,0.9999999999901557
+business_470,Saudi investor picks up the Savoy,business,business,0.9999999643580583
+tech_381,Kenyan school turns to handhelds,tech,tech,1.0
+politics_188,Security papers 'found in street',politics,politics,1.0
+entertainment_383,French honour for director Parker,entertainment,entertainment,1.0
+sport_368,A November to remember,sport,sport,1.0
+business_183,Business fears over sluggish EU economy,business,business,1.0
+entertainment_362,Original Exorcist to be screened,entertainment,entertainment,1.0
+entertainment_157,US charity anthem is re-released,entertainment,entertainment,1.0
+sport_477,Moya suffers shock loss,sport,sport,1.0
+politics_385,UK pledges Â£1bn to vaccine effort,politics,politics,1.0
+tech_218,Gritty return for Prince of Persia,tech,tech,1.0
+tech_136,BT offers free net phone calls,tech,tech,1.0
+politics_094,McConnell in 'drunk' remark row,politics,politics,1.0
+tech_335,Mobile networks seek turbo boost,tech,tech,1.0
+sport_365,Williams stays on despite dispute,sport,sport,1.0
+sport_448,Kuznetsova 'failed a drugs test',sport,sport,1.0
+sport_480,Edgy Agassi struggles past Dent,sport,sport,1.0
+entertainment_241,Youssou N'Dour wins music prize,entertainment,entertainment,1.0
+business_069,Boeing unveils new 777 aircraft,business,business,1.0
+tech_157,Online games play with politics,tech,tech,1.0
+entertainment_169,US actor 'found with gun residue',entertainment,entertainment,1.0
+tech_359,Gizmondo gadget hits the shelves,tech,tech,1.0
+politics_282,Blair blasts Tory spending plans,politics,politics,1.0
+business_094,US economy shows solid GDP growth,business,business,1.0
+sport_218,Mourinho plots impressive course,sport,sport,1.0
+sport_370,Robinson wants dual code success,sport,sport,1.0
+business_213,US bank boss hails 'genius' Smith,business,politics,0.9999558397785013
+politics_108,'Super union' merger plan touted,politics,politics,0.8947635816658035
+sport_481,Roddick splits from coach Gilbert,sport,sport,1.0
+sport_256,Everton's Weir cools Euro hopes,sport,sport,1.0
+politics_072,'No more concessions' on terror,politics,politics,1.0
+politics_100,Guantanamo man 'suing government',politics,politics,1.0
+business_342,Honda wins China copyright ruling,business,business,1.0
+politics_228,Labour pig poster 'anti-Semitic',politics,politics,1.0
+sport_178,Cole refuses to blame van Persie,sport,sport,1.0
+tech_030,Reboot ordered for EU patent law,tech,tech,1.0
+business_355,Israeli economy picking up pace,business,business,1.0
+politics_336,Labour's core support takes stock,politics,politics,1.0
+tech_002,China net cafe culture crackdown,tech,tech,1.0
+sport_145,Downing injury mars Uefa victory,sport,sport,1.0
+entertainment_240,Elvis 'set for chart hat-trick',entertainment,entertainment,1.0
+politics_187,Jowell confirms casino climbdown,politics,politics,1.0
+sport_214,Mansfield 0-1 Leyton Orient,sport,sport,1.0
+business_416,Steady job growth continues in US,business,business,1.0
+business_315,S&N extends Indian beer venture,business,business,1.0
+entertainment_206,Show over for MTV's The Osbournes,entertainment,entertainment,1.0
+entertainment_153,OutKast win at MTV Europe Awards,entertainment,entertainment,1.0
+sport_269,Reds sink 10-man Magpies,sport,sport,1.0
+business_263,Split-caps pay Â£194m compensation,business,business,1.0
+business_487,World leaders gather to face uncertainty,business,business,1.0
+business_402,US interest rate rise expected,business,business,1.0
+entertainment_029,Baghdad Blogger on big screen,entertainment,entertainment,1.0
+business_252,BT offers equal access to rivals,business,tech,1.0
+tech_055,Junk e-mails on relentless rise,tech,tech,1.0
+business_238,Firms pump billions into pensions,business,business,0.9999999975361198
+sport_176,Keegan hails comeback king Fowler,sport,sport,1.0
+entertainment_382,Last Star Wars 'not for children',entertainment,entertainment,1.0
+business_495,BBC poll indicates economic gloom,business,business,0.9999999967830142
+sport_224,Bristol City 2-1 Milton Keynes,sport,sport,1.0
+politics_016,Crisis 'ahead in social sciences',politics,politics,0.9999999999999825
+tech_130,Slim PlayStation triples sales,tech,tech,1.0
+business_354,Asia shares defy post-quake gloom,business,business,1.0
+politics_258,Labour MPs' fears over squabbling,politics,politics,1.0
+sport_387,Lions blow to World Cup winners,sport,sport,1.0
+politics_291,'Super union' merger plan touted,politics,politics,0.8947635816658035
+sport_133,Finnan says Irish can win group,sport,sport,1.0
+politics_180,Falconer rebuts 'charade' claims,politics,politics,1.0
+entertainment_253,Scissor Sisters triumph at Brits,entertainment,entertainment,1.0
+tech_139,Halo fans' hope for sequel,tech,tech,1.0
+politics_274,The memory driving Brown's mission,politics,politics,1.0
+tech_097,Web helps collect aid donations,tech,tech,1.0
+business_128,Qantas sees profits fly to record,business,business,1.0
+entertainment_041,No ads for Passion Oscar campaign,entertainment,entertainment,1.0
+politics_414,Blair 'up for it' ahead of poll,politics,politics,1.0
+business_419,$1m payoff for former Shell boss,business,business,1.0
+sport_402,Sydney to host north v south game,sport,sport,1.0
+politics_005,Brown ally rejects Budget spree,politics,politics,1.0
+sport_096,Van Nistelrooy set to return,sport,sport,1.0
+entertainment_271,German music in a 'zombie' state,entertainment,tech,1.0
+politics_215,New rules tackle 'sham weddings',politics,politics,1.0
+sport_046,Radcliffe eyes hard line on drugs,sport,sport,1.0
+tech_246,Humanoid robot learns how to run,tech,tech,1.0
+tech_269,Yahoo moves into desktop search,tech,tech,1.0
+tech_353,Anti-tremor mouse stops PC shakes,tech,tech,1.0
+politics_076,Report attacks defence spending,politics,business,0.9999999999999987
+politics_278,What really divides the parties,politics,politics,1.0
+politics_091,Vouchers 'to cut winter deaths',politics,politics,1.0
+entertainment_294,No UK premiere for Rings musical,entertainment,entertainment,1.0
+tech_398,Spam e-mails tempt net shoppers,tech,tech,1.0
+entertainment_347,Casino Royale is next Bond movie,entertainment,entertainment,1.0
+sport_355,Wales get Williams fitness boost,sport,sport,1.0
+business_254,News Corp eyes video games market,business,tech,1.0
+politics_055,Kelly trails new discipline power,politics,politics,1.0
+business_436,ECB holds rates amid growth fears,business,business,1.0
+business_133,Salary scandal in Cameroon,business,politics,0.9979516568975706
+business_054,Hyundai to build new India plant,business,business,1.0
+politics_029,UK set to cut back on embassies,politics,politics,1.0
+tech_054,Moving mobile improves golf swing,tech,tech,1.0
+sport_236,Liverpool revel in night of glory,sport,sport,1.0
+tech_351,Nintendo DS makes its Euro debut,tech,tech,1.0
+sport_203,Mutu to hold talks with Juventus,sport,sport,1.0
+entertainment_149,Spector facing more legal action,entertainment,entertainment,0.9999999996605085
+entertainment_130,Charity single for quake relief,entertainment,entertainment,1.0
+politics_361,Budget to set scene for election,politics,politics,1.0
+entertainment_209,US show sued for rat-eating stunt,entertainment,entertainment,0.9999999359485378
+business_200,Cuba winds back economic clock,business,business,1.0
+politics_015,Talks held on Gibraltar's future,politics,politics,0.9999999999870379
+politics_380,Minimum wage increased to Â£5.05,politics,politics,1.0
+business_097,'Strong dollar' call halts slide,business,business,1.0
+politics_203,New foot and mouth action urged,politics,politics,1.0
+business_060,Insurance bosses plead guilty,business,business,1.0
+entertainment_350,Ray DVD beats box office takings,entertainment,entertainment,1.0
+politics_389,EU rules 'won't stop UK spending',politics,politics,1.0
+sport_296,Fear will help France - Laporte,sport,sport,1.0
+entertainment_162,Prince crowned 'top music earner',entertainment,entertainment,1.0
+sport_052,Holmes starts 2005 with GB events,sport,sport,1.0
+sport_438,Davenport hits out at Wimbledon,sport,sport,1.0
+politics_163,Kinnock to urge reform in Lords,politics,politics,1.0
+politics_174,Escaped prisoner report ordered,politics,politics,1.0
+entertainment_075,Indie film nominations announced,entertainment,entertainment,1.0
+business_152,Crude oil prices back above $50,business,business,1.0
+sport_254,Anelka apologises for criticism,sport,sport,1.0
+sport_007,O'Sullivan commits to Dublin race,sport,sport,1.0
+sport_225,Hereford 1-1 Doncaster,sport,sport,1.0
+entertainment_151,Eminem secret gig venue revealed,entertainment,entertainment,1.0
+tech_336,Mac Mini heralds mini revolution,tech,tech,1.0
+sport_062,Brizzel to run AAA's in Sheffield,sport,sport,1.0
+business_242,Q&A: Malcolm Glazer and Man Utd,business,business,1.0
+tech_066,Kenyan school turns to handhelds,tech,tech,1.0
+entertainment_025,New Harry Potter tops book chart,entertainment,entertainment,1.0
+entertainment_046,Howl helps boost Japan's cinemas,entertainment,entertainment,1.0
+sport_420,O'Connor aims to grab opportunity,sport,sport,1.0
+tech_143,Putting a face to 'Big Brother',tech,tech,1.0
+tech_137,When invention turns to innovation,tech,tech,1.0
+politics_045,Tory leader 'cleared' over work,politics,politics,1.0
+business_398,Tsunami to cost Sri Lanka $1.3bn,business,business,1.0
+business_219,Rescue hope for Borussia Dortmund,business,business,1.0
+politics_110,UK heading wrong way - Howard,politics,politics,1.0
+tech_101,Bush website blocked outside US,tech,tech,1.0
+tech_219,Disney backs Sony DVD technology,tech,tech,1.0
+politics_367,"UK heading wrong way, says Howard",politics,politics,1.0
+tech_354,The pirates with no profit motive,tech,tech,1.0
+sport_094,Lewis-Francis turns to Christie,sport,sport,1.0
+sport_451,Moya fights back for Indian title,sport,sport,1.0
+politics_288,New UKIP defection to 'Veritas',politics,politics,1.0
+sport_018,Merritt close to indoor 400m mark,sport,sport,1.0
+business_262,Asian quake hits European shares,business,business,1.0
+sport_069,Holmes back on form in Birmingham,sport,sport,1.0
+business_432,BA to suspend two Saudi services,business,business,1.0
+entertainment_061,Director Nair's Vanity project,entertainment,entertainment,1.0
+entertainment_045,Jugnot 'tops French actor league',entertainment,entertainment,1.0
+business_046,Industrial output falls in Japan,business,business,1.0
+business_477,JP Morgan admits US slavery links,business,business,1.0
+politics_199,Game warnings 'must be clearer',politics,tech,1.0
+entertainment_327,Kidman wins photographer battle,entertainment,entertainment,0.9934196487159834
+entertainment_270,"Hendrix guitar fetches Â£100,000",entertainment,entertainment,1.0
+business_078,Deadline nears for Fiat-GM deal,business,business,1.0
+tech_183,Consumers 'snub portable video',tech,tech,1.0
+business_281,Axa Sun Life cuts bonus payments,business,business,1.0
+business_448,US Ahold suppliers face charges,business,business,1.0
+politics_194,Cherie accused of attacking Bush,politics,politics,1.0
+politics_168,MPs' murder sentence concern,politics,politics,1.0
+business_341,Jarvis sells Tube stake to Spain,business,business,1.0
+business_140,Ore costs hit global steel firms,business,business,1.0
+sport_149,Legendary Dutch boss Michels dies,sport,sport,1.0
+business_159,India unveils anti-poverty budget,business,business,1.0
+business_248,Survey confirms property slowdown,business,business,1.0
+business_464,Wall Street cool to eBay's profit,business,business,1.0
+sport_303,Jones happy with Henson heroics,sport,sport,1.0
+sport_317,Munster Cup tie switched to Spain,sport,sport,1.0
+entertainment_255,Cult band Kasabian surge forward,entertainment,entertainment,1.0
+entertainment_287,REM announce new Glasgow concert,entertainment,entertainment,1.0
+entertainment_258,No jail for singer Courtney Love,entertainment,entertainment,1.0
+sport_001,Claxton hunting first major medal,sport,sport,1.0
+politics_200,Mallon wades into NE vote battle,politics,politics,1.0
+tech_337,Can Yahoo dominate next decade?,tech,tech,1.0
+business_393,Laura Ashley chief stepping down,business,business,1.0
+entertainment_333,Actor Scott is new Bond favourite,entertainment,entertainment,1.0
+sport_475,Agassi fear for Melbourne,sport,sport,1.0
+business_172,Newest EU members underpin growth,business,business,1.0
+business_147,Malaysia lifts Islamic bank limit,business,business,1.0
+sport_369,South Africa sweep top awards,sport,sport,1.0
+tech_098,Mobiles rack up 20 years of use,tech,tech,1.0
+politics_144,MP attacked by muggers in Kenya,politics,politics,0.9999999993335709
+business_197,Ukraine steel sell-off 'illegal',business,business,1.0
+business_443,Kraft cuts snack ads for children,business,business,0.9999703058185864
+sport_454,Hingis hints at playing comeback,sport,sport,1.0
+entertainment_384,Robots march to US cinema summit,entertainment,entertainment,1.0
+entertainment_166,TV station refuses adoption show,entertainment,entertainment,1.0
+sport_443,Clijsters set for February return,sport,sport,1.0
+politics_202,Tories opposing 24-hour drinking,politics,politics,1.0
+business_101,Australia rates at four year high,business,business,1.0
+entertainment_158,Queen recruit singer for new tour,entertainment,entertainment,1.0
+sport_158,Stam spices up Man Utd encounter,sport,sport,1.0
+tech_400,US cyber security chief resigns,tech,tech,1.0
+business_212,MG Rover China tie-up 'delayed',business,business,1.0
+tech_126,'Ultimate game' award for Doom 3,tech,tech,1.0
+politics_345,Teenagers to be allowed to be MPs,politics,politics,1.0
+business_201,Novartis hits acquisition trail,business,business,1.0
+politics_009,Campbell: E-mail row 'silly fuss',politics,politics,1.0
+business_032,Japanese banking battle at an end,business,business,1.0
+politics_346,Labour's four little words,politics,politics,1.0
+entertainment_202,BBC 'should allow more scrutiny',entertainment,tech,0.9999999761044635
+business_202,MCI shareholder sues to stop bid,business,business,1.0
+business_022,Sluggish economy hits German jobs,business,business,1.0
+business_269,Air China in $1bn London listing,business,business,1.0
+sport_201,Wenger offers Mutu hope,sport,sport,1.0
+business_340,Venezuela and China sign oil deal,business,business,1.0
+entertainment_092,Actor Foxx sees Globe nominations,entertainment,entertainment,1.0
+sport_183,Mourinho expects fight to finish,sport,sport,1.0
+sport_241,Hamm bows out for US,sport,sport,1.0
+entertainment_355,Bafta to hand out movie honours,entertainment,entertainment,1.0
+sport_255,Ferguson rues failure to cut gap,sport,sport,1.0
+tech_201,How to make a gigapixel picture,tech,tech,1.0
+sport_077,Yelling takes Cardiff hat-trick,sport,sport,1.0
+business_121,US interest rates increased to 2%,business,business,1.0
+tech_387,Progress on new internet domains,tech,tech,1.0
+politics_376,MPs demand 'Budget leak' answers,politics,politics,1.0
+business_379,Reliance unit loses Anil Ambani,business,business,1.0
+entertainment_096,Singer's film to show at festival,entertainment,entertainment,1.0
+politics_003,Hewitt decries 'career sexism',politics,politics,1.0
+sport_467,Capriati to miss Melbourne,sport,sport,1.0
+politics_101,Council tax rise 'reasonable',politics,politics,1.0
+sport_307,Wales critical of clumsy Grewcock,sport,sport,1.0
+sport_474,Mauresmo opens with victory in LA,sport,sport,1.0
+sport_446,Davenport dismantles young rival,sport,sport,1.0
+tech_141,US top of supercomputing charts,tech,tech,1.0
+politics_255,Brown in appeal for Labour unity,politics,politics,1.0
+sport_003,Greene sets sights on world title,sport,sport,1.0
+politics_052,Nuclear strike 'key terror risk',politics,politics,1.0
+politics_013,Howard rebuts asylum criticisms,politics,politics,1.0
+politics_092,New 'yob' targets to be unveiled,politics,politics,1.0
+business_226,McDonald's to sponsor MTV show,business,entertainment,0.9990173281126246
+sport_274,Gerrard happy at Anfield,sport,sport,1.0
+business_157,Khodorkovsky ally denies charges,business,business,1.0
+entertainment_265,Abba reunite for musical premiere,entertainment,entertainment,1.0
+politics_322,Parties build up poll war chests,politics,politics,1.0
+business_155,Macy's owner buys rival for $11bn,business,business,1.0
+entertainment_332,Incredibles win animation awards,entertainment,entertainment,1.0
+entertainment_348,Berlin celebrates European cinema,entertainment,entertainment,1.0
+entertainment_248,Deal to ban 'homophobic' reggae,entertainment,entertainment,1.0
+business_093,Argentina closes $102.6bn debt swap,business,business,1.0
+politics_084,Job cuts 'false economy'  - TUC,politics,politics,0.9999999999890148
+entertainment_114,Pete Doherty misses bail deadline,entertainment,entertainment,0.9999999999800508
+business_176,GSK aims to stop Aids profiteers,business,business,0.999999999999966
+business_343,Air Jamaica back in state control,business,business,1.0
+entertainment_115,Rapper Snoop Dogg sued for 'rape',entertainment,entertainment,1.0
+entertainment_034,Vera Drake scoops film award,entertainment,entertainment,1.0
+tech_282,Dublin hi-tech labs to shut down,tech,tech,1.0
+business_381,Oil rebounds from weather effect,business,business,1.0
+tech_223,Satellite mapping aids Darfur relief,tech,tech,1.0
+tech_321,Consumer concern over RFID tags,tech,tech,1.0
+politics_208,Gurkhas to help tsunami victims,politics,business,0.7169469802447321
+business_418,US firm 'bids for Lacroix label',business,business,1.0
+sport_138,Bellamy under new fire,sport,sport,1.0
+sport_386,Campbell to be Lions consultant,sport,sport,0.997513678046917
+entertainment_353,Roundabout continues nostalgia trip,entertainment,entertainment,1.0
+sport_278,Robben and Cole earn Chelsea win,sport,sport,1.0
+sport_508,Almagro continues Spanish surge,sport,sport,1.0
+tech_290,Fast moving phone viruses appear,tech,tech,1.0
+business_483,Ailing EuroDisney vows turnaround,business,business,1.0
+business_009,Ethiopia's crop production up 24%,business,business,1.0
+tech_134,Gates opens biggest gadget fair,tech,tech,1.0
+politics_204,Correction agency plans dropped,politics,politics,1.0
+sport_371,All Black magic: New Zealand rugby,sport,sport,1.0
+tech_298,Napster offers rented music to go,tech,tech,1.0
+tech_073,'Evil twin' fear for wireless net,tech,tech,1.0
+business_319,Euronext joins bid battle for LSE,business,business,1.0
+entertainment_111,Elton plays Paris charity concert,entertainment,entertainment,1.0
+entertainment_256,Brits debate over 'urban' music,entertainment,entertainment,1.0
+politics_103,Minimum rate for foster parents,politics,politics,0.9999999999999911
+sport_240,Man Utd through after Exeter test,sport,sport,1.0
+sport_043,Collins named UK Athletics chief,sport,sport,1.0
+sport_092,Collins calls for Chambers return,sport,sport,1.0
+entertainment_167,A-listers flock to Gervais sitcom,entertainment,entertainment,1.0
+politics_025,UK 'needs true immigration data',politics,politics,1.0
+tech_007,Microsoft releases bumper patches,tech,tech,1.0
+sport_130,Weir poised for Sunderland move,sport,sport,1.0
+tech_204,British Library gets wireless net,tech,tech,1.0
+tech_216,TV future in the hands of viewers,tech,tech,1.0
+sport_409,O'Connell rejects Lions rumours,sport,sport,1.0
+politics_372,Observers to monitor UK election,politics,politics,1.0
+sport_293,Newcastle 27-27 Gloucester,sport,sport,1.0
+politics_399,Tories reject rethink on axed MP,politics,politics,1.0
+business_338,Police detain Chinese milk bosses,business,business,1.0
+business_005,Pernod takeover talk lifts Domecq,business,business,1.0
+tech_019,Intel unveils laser breakthrough,tech,tech,1.0
+entertainment_015,Mutant book wins Guardian prize,entertainment,entertainment,1.0
+entertainment_230,Aaliyah claim dismissed by court,entertainment,entertainment,1.0
+tech_372,Text message record smashed again,tech,tech,1.0
+tech_309,What's next for next-gen consoles?,tech,tech,1.0
+politics_173,Ministers lose slopping out case,politics,politics,1.0
+sport_187,Celtic make late bid for Bellamy,sport,sport,1.0
+tech_238,Gamers snap up new Sony PSP,tech,tech,1.0
+politics_417,Lib Dems unveil election slogan,politics,politics,1.0
+business_042,UK Coal plunges into deeper loss,business,business,1.0
+politics_189,Blair congratulates Bush on win,politics,politics,1.0
+tech_127,Gadget show heralds MP3 season,tech,tech,1.0
+business_450,US retail sales surge in December,business,business,1.0
+tech_156,File-swappers ready new network,tech,tech,1.0
+tech_167,Europe backs digital TV lifestyle,tech,tech,1.0
+sport_245,Bomb threat at Bernabeu stadium,sport,sport,1.0
+business_285,EU 'too slow' on economic reforms,business,business,0.9999999999999993
+business_445,Executive trio leave Aer Lingus,business,business,1.0
+business_234,Vodafone appoints new Japan boss,business,business,0.9999999980771053
+entertainment_335,De Niro film leads US box office,entertainment,entertainment,1.0
+tech_240,Set your television to wow,tech,tech,1.0
+tech_138,Firefox browser takes on Microsoft,tech,tech,1.0
+entertainment_074,Ocean's Twelve raids box office,entertainment,entertainment,1.0
+business_453,US industrial output growth eases,business,business,1.0
+entertainment_093,Godzilla gets Hollywood fame star,entertainment,entertainment,1.0
+sport_286,Yachvili savours France comeback,sport,sport,1.0
+entertainment_372,Eastwood's Baby scoops top Oscars,entertainment,entertainment,1.0
+business_377,VW considers opening Indian plant,business,business,1.0
+politics_364,Howard attacks 'pay later' Budget,politics,politics,1.0
+sport_123,England's defensive crisis grows,sport,sport,1.0
+business_298,Fannie Mae 'should restate books',business,business,1.0
+tech_350,Chip maker backs net phone calls,tech,tech,1.0
+sport_085,Tulu to appear at Caledonian run,sport,sport,1.0
+tech_031,Solutions to net security fears,tech,tech,1.0
+tech_046,BBC leads interactive Bafta wins,tech,entertainment,1.0
+business_383,Fed warns of more US rate rises,business,business,1.0
+business_164,Yukos sues four firms for $20bn,business,business,1.0
+politics_304,UKIP outspent Labour on EU poll,politics,politics,1.0
+business_012,Indonesians face fuel price rise,business,business,1.0
+entertainment_194,Ethnic producers 'face barriers',entertainment,tech,0.9842103056172007
+sport_223,Benitez delight after crucial win,sport,sport,1.0
+politics_178,Hatfield executives go on trial,politics,entertainment,0.9741011339748413
+business_408,South African car demand surges,business,business,1.0
+tech_255,Hollywood campaign hits websites,tech,tech,1.0
+business_323,No seasonal lift for house market,business,business,1.0
+sport_249,Solskjaer raises hopes of return,sport,sport,1.0
+sport_385,Lions blow to World Cup stars,sport,sport,1.0
+politics_096,Tories 'would cut number of MPs',politics,politics,1.0
+sport_039,Jones medals 'must go if guilty',sport,sport,1.0
+sport_292,Wales coach elated with win,sport,sport,1.0
+business_224,Man Utd to open books to Glazer,business,business,1.0
+sport_265,Gronkjaer agrees switch to Madrid,sport,sport,1.0
+tech_160,Halo 2 sells five million copies,tech,tech,1.0
+sport_282,Ferguson hails Man Utd's resolve,sport,sport,1.0
+tech_125,The Force is strong in Battlefront,tech,tech,1.0
+tech_078,Blog reading explodes in America,tech,tech,1.0
+entertainment_081,Oscars race enters final furlong,entertainment,entertainment,1.0
+sport_275,Beckham rules out management move,sport,sport,1.0
+entertainment_050,Willis sues over movie 'injury',entertainment,entertainment,0.9991864669557443
+business_007,Jobs growth still slow in the US,business,business,1.0
+business_405,House prices rebound says Halifax,business,business,1.0
+politics_338,Lib Dems highlight problem debt,politics,politics,1.0
+politics_263,How political squabbles snowball,politics,politics,1.0
+tech_207,How to smash a home computer,tech,tech,1.0
+sport_444,Hewitt falls to Dent,sport,sport,1.0
+entertainment_134,Rock group Korn's guitarist quits,entertainment,entertainment,1.0
+tech_369,Microsoft plans 'safer ID' system,tech,tech,1.0
+business_008,India calls for fair trade rules,business,business,1.0
+tech_197,Smartphones suffer Skulls attack,tech,tech,1.0
+tech_108,Search wars hit desktop PCs,tech,tech,1.0
+tech_251,Video phone help for deaf people,tech,tech,1.0
+sport_416,Italy 8-38 Wales,sport,sport,1.0
+entertainment_245,Mogul Wilson backing UK rap band,entertainment,entertainment,1.0
+entertainment_037,Film row over Pirates 'cannibals',entertainment,entertainment,0.9999999999991667
+sport_071,Tomlinson stays focused on Europe,sport,sport,1.0
+entertainment_103,Downloads enter US singles chart,entertainment,entertainment,1.0
+business_384,Weak end-of-year sales hit Next,business,business,1.0
+business_089,Europe blames US over weak dollar,business,business,1.0
+entertainment_314,How the Academy Awards flourished,entertainment,entertainment,1.0
+sport_127,Kewell waits as injury drags on,sport,sport,1.0
+tech_243,PC photo printers challenge pros,tech,tech,1.0
+politics_104,Royal couple watch nation's mood,politics,politics,1.0
+sport_101,Man City 0-2 Man Utd,sport,sport,1.0
+politics_196,Mandelson warning to BBC,politics,politics,1.0
+tech_365,Local net TV takes off in Austria,tech,tech,1.0
