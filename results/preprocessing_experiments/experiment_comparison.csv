@@ -1,5 +1,0 @@
-experiment,document_count,total_tokens,vocabulary_size,average_tokens_per_document,minimum_document_length,maximum_document_length
-baseline,2225,855598,27877,384.53842696629215,90,4468
-stopword_removal,2225,499207,27760,224.36269662921347,47,2289
-stemming_only,2225,855598,19089,384.53842696629215,90,4468
-lemmatization_only,2225,855598,24852,384.53842696629215,90,4468
