@@ -1,4 +1,4 @@
-k,iterations,inertia,purity,rand_index
+k,Iterations,Inertia,Purity,Rand Index
 2,15,3408.6272,0.4571,0.6531
 3,28,3340.417,0.6301,0.8089
 4,19,3274.6454,0.8,0.9152
